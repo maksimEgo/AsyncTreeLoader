@@ -1,0 +1,15 @@
+/vendor/
+/node_modules/
+
+*.log
+
+/.idea/
+/.vscode/
+
+.DS_Store
+Thumbs.db
+
+composer.lock
+composer.phar
+
+/phpunit.xml
